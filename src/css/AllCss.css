@@ -1,0 +1,9 @@
+.background{
+    height: 400px;
+    background: black;
+}
+.d-flex-between-center{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
